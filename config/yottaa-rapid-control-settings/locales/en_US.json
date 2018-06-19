@@ -1,0 +1,12 @@
+{
+  "resources": {
+    "yottaaSiteKeyHelpText" : "Copy the site key from the https://rapid.yottaa.com/ into this field to connect your site to yottaa",
+    "yottaaSiteKeyLabel" : "Site Key",
+    "configTitle": "Yottaa Rapid Ctrl",
+    "configDescription": "This value allows your integration with Oracle Cloud Commerce to retrieve the proper settings for your site.",
+    "yottaaProductOptionHelpText": "This option allows you to chose the best product that best fits your application needs.",
+    "yottaaProductOptionLabel": "Rapid Product Selection",
+    "rapidCtrlLabel": "Rapid Insite (Analytics Only)",
+    "rapidInsiteLabel": "Rapid CTRL (Analytics + Control)"
+  }
+}

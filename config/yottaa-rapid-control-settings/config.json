@@ -1,0 +1,18 @@
+{
+  "titleResourceId": "configTitle",
+  "descriptionResourceId": "configDescription",
+  "properties": [
+    {
+      "id": "yottaaSiteKey",
+      "type": "stringType",
+      "name": "Yottaa Site Key",
+      "helpTextResourceId": "yottaaSiteKeyHelpText",
+      "labelResourceId": "yottaaSiteKeyLabel",
+      "defaultValue": "KEY FROM RAPID",
+      "required": true,
+      "minLength": 13,
+      "maxLength": 14
+    }
+  ]
+}
+

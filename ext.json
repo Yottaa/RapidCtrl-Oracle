@@ -1,0 +1,19 @@
+{
+  "extensionID": "1251698a-4480-4db8-94ba-315573d0821b",
+  "developerID": "987654",
+  "createdBy": "Yottaa",
+  "version": 1,
+  "timeCreated": "2018-06-13",
+  "translations" : [
+    {
+      "language" : "en_US",
+      "name":"Yottaa",
+      "description":"Yottaa E-Commerce Acceleration"
+    },
+    {
+      "language" : "fr_CA",
+      "name":"Yottaa",
+      "description": "Yottaa E-Commerce Acceleration"
+    }
+  ]
+}

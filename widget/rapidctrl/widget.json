@@ -1,0 +1,17 @@
+{
+    "version": 1,
+    "global": true,
+    "javascript": "rapidctrl",
+    "availableToAllPages": true,
+    "jsEditable": true,
+    "translations" : [
+        {
+        "language": "en",
+        "name": "Yottaa Ctrl"
+        },
+        {
+        "language": "de",
+        "name": "Yottaa Ctrl"
+        }
+    ]
+}
